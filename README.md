@@ -1,0 +1,9 @@
+# Analisis Penyebaran Kasus HIV/AIDS di Indonesia
+
+Kasus HIV/AIDS merupakan salah satu masalah di bidang kesehatan global, khususnya di Indonesia. HIV sendiri merupakan kependekan dari Human Immunodeficiency Virus yang menyebabkan imunitas menurun karena HIV menyerang salah satu sel di dalam sel darah putih, yaitu sel T atau CD4 yang memiliki peran penting untuk menjaga imunitas dan memerangi infeksi yang masuk ke dalam tubuh. Sedangkan AIDS adalah singkatan dari Acquired Immune Deficiency Syndrome yang timbul karena turunnya kekebalan tubuh yang diakibatkan oleh infeksi virus HIV. Jumlah kasus HIV/AIDS di Indonesia pada tahun 2022 mencapai 519.158 orang, mengalami peningkatan dibandingkan dengan tahun 2017 yang sebanyak 242.699 orang.
+
+Melihat kasus HIV/AIDS yang terus meningkat, pada tahun 2017 pemerintah berupaya menanggulangi penularan virus HIV dengan strategi Fast Track 90-90-90, namun sayangnya strategi itu belum berhasil untuk menurunkan kasus HIV di Indonesia. Pada tahun 2019, pemerintah kembali merancang strategi baru dengan campaign '3 Zero' yaitu zero infeksi baru, zero kematian terkait AIDS, dan zero stigma dan diskriminasi.
+
+Oleh karena itu peneliti mengangkat topik HIV/AIDS untuk dianalisis penyebaran kasusnya di berbagai provinsi di Indonesia dengan menggunakan metode K-means Clustering untuk mengelompokkan kasus HIV berdasarkan kasus karakteristik suatu provinsi dan Principal Component Analysis (PCA) untuk memperoleh hasil klasifikasi dari metode K-Means Clustering dalam upaya mendukung program '3 Zero' untuk Indonesia yang bebas HIV di 2030. Sumber data yang digunakan yaitu data kasus HIV/AIDS yang diperoleh dari Kementerian Kesehatan dan sumber relevan lainnya.
+
+Dari penelitian ini, diperoleh kesimpulan bahwa terdapat hubungan yang jelas antara tingkat pendidikan, tingkat ekonomi, serta tingkat layanan kesehatan dengan kasus HIV per 1000 penduduk di setiap provinsi di Indonesia.
